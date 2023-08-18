@@ -88,6 +88,6 @@ typescript
 
 ## 📫 Contato
 
-<p>Email: italo.rocha.de.oliveira@gmail.com</p>
+<p>Email: pedrohenriquecardoso99@hotmail.com</p>
 <a href = "pedrohenriquecardoso99@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-oliveira-0275b8241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
